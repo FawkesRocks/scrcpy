@@ -37,6 +37,8 @@ to control your device using a keyboard and mouse.
  - [Windows](doc/windows.md)
  - [macOS](doc/macos.md)
 
+Specfic instructions are included on the download page. 
+*NOTE - Only Windows has specific instructions at this time*
 
 ## User documentation
 
