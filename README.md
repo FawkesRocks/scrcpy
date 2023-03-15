@@ -64,26 +64,7 @@ documented in the following pages:
 
 [wiki]: https://github.com/Genymobile/scrcpy/wiki
 
-## Contact
-
-If you encounter a bug, please read the [FAQ](FAQ.md) first, then open an [issue].
-
-[issue]: https://github.com/Genymobile/scrcpy/issues
-
-For general questions or discussions, you can also use:
-
- - Reddit: [`r/scrcpy`](https://www.reddit.com/r/scrcpy)
- - Twitter: [`@scrcpy_app`](https://twitter.com/scrcpy_app)
-
-
-## Donate
-
-I'm [@rom1v](https://github.com/rom1v), the author and maintainer of _scrcpy_.
-
-If you appreciate this application, you can [support my open source
-work][donate].
-
-[donate]: https://blog.rom1v.com/about/#support-my-open-source-work
+This repo has been modified for the sake of ease of use and accessability. Bugs and other things should be reported to the original devs.
 
 ## Licence
 
